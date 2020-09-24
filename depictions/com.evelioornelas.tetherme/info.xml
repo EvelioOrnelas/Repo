@@ -1,7 +1,7 @@
 <package>
-	<id>com.evelioornelas.tetherme</id>
+	<id>com.evelioornelas.tetherme8</id>
 	<name>TetherMe for iOS 8+</name>
-	<version>8_1.2.3</version>
+	<version>1.2.3</version>
 	<compatibility>
 		<firmware>
 			<miniOS>8.0</miniOS>
