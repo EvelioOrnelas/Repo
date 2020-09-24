@@ -1,0 +1,18 @@
+Package: com.pulandres.tetherme8
+Version: 1.2.3
+Architecture: iphoneos-arm
+Maintainer: ReJail <rejail@rejail.ru>
+Installed-Size: 2300
+Depends: firmware (>= 8.0), preferenceloader (>= 2.2.2), firmware (>= 11.0) | network-cmds
+Conflicts: net.tetherme.tetherme
+Replaces: net.tetherme.tetherme
+Filename: ./debs/com.ornelas.tetherme8_1.2.3_iphoneos-arm.deb
+Size: 173734
+MD5sum: b85a308b17330d255a69abe873263b5b
+SHA1: 27e39249e6b1d259285e2ce3763d5aab49208c5a
+SHA256: d9b750e14acdecc68194dcaed08026f45149cd7b79b541b5ff7d3881540b7ee6
+Section: Tweaks
+Description: More advanced modem settings
+Author: Sam Bingner <support@tetherme.net>
+Name: TetherMe for iOS 8+
+
