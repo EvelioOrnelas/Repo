@@ -1,0 +1,68 @@
+Package: com.hackyouriphone.spotilife
+Version: 1.0a
+Architecture: iphoneos-arm
+Maintainer: HackYouriPhone <repo@hackyouriphone.org>
+Depends: mobilesubstrate
+Filename: ./debs/com.hackyouriphone.spotilife_1.0a_iphoneos-arm.deb
+Size: 92090
+MD5sum: 3d3360281134abca1116bef38b4085e4
+SHA1: 9781de2c3d95f00719266261c762ef6319e2e475
+SHA256: 266f855f02c0baaa0ab208b126449574d1da2d25a980647765ff0dedabcaa98e
+Section: HYI - Tweaks
+Homepage: http://repo.hackyouriphone.org/depiction/depiction.php?filename=spotilife
+Description: Spotify Unlimited Skips, Remove ADs, Extreme Quality Stream Unlocked... Requires Spotify App (AppStore)
+Author: julioverne <repo@hackyouriphone.org>
+Depiction: http://repo.hackyouriphone.org/depiction/depiction.php?filename=spotilife
+Name: Spotilife
+Sileodepiction: https://depiction.hackyouriphone.org/sileoDepiction.php?filename=spotilife
+
+Package: com.ioscreatix.sugarcane
+Version: 1.2-3+debug
+Architecture: iphoneos-arm
+Maintainer: iOS Creatix, kasiimh1, baptistecdr
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debs/com.ioscreatix.sugarcane_1.2-3+debug_iphoneos-arm.deb
+Size: 5640
+MD5sum: 5cca7febbf769caf3f7aea1e468520c4
+SHA1: 14ae139d68fcf2d89ed1057c7c156af3a152b3db
+SHA256: 9500cf41f7936f6d011aaf2ea2bca227c2664b5456492ff6cd1c67825900d75d
+Section: Tweaks
+Description: Get percentages for the sliders in the Control Center on iOS 13
+Author: iOS Creatix, kasiimh1, baptistecdr
+Name: SugarCane
+
+Package: com.pulandres.tetherme8
+Version: 1.2.3
+Architecture: iphoneos-arm
+Maintainer: ReJail <rejail@rejail.ru>
+Installed-Size: 2300
+Depends: firmware (>= 8.0), preferenceloader (>= 2.2.2), firmware (>= 11.0) | network-cmds
+Conflicts: net.tetherme.tetherme
+Replaces: net.tetherme.tetherme
+Filename: ./debs/com.evelioornelas.tetherme8_1.2.3_iphoneos-arm.deb
+Size: 173734
+MD5sum: b85a308b17330d255a69abe873263b5b
+SHA1: 27e39249e6b1d259285e2ce3763d5aab49208c5a
+SHA256: d9b750e14acdecc68194dcaed08026f45149cd7b79b541b5ff7d3881540b7ee6
+Section: Tweaks
+Description: More advanced modem settings
+Author: Sam Bingner <support@tetherme.net>
+Name: TetherMe for iOS 8+
+
+Package: ru.domo.cocoatop64
+Version: 2.0.2
+Architecture: iphoneos-arm
+Maintainer: Domo
+Installed-Size: 446
+Conflicts: ru.domo.cocoatop
+Filename: ./debs/ru.domo.cocoatop64_2.0.2_iphoneos-arm.deb
+Size: 118756
+MD5sum: 91eb83ce0b02f4f3fa32e48797ddc2da
+SHA1: 3d36219ed91f11826297a445be1fa7b4bff8d1cb
+SHA256: 6bcfd4a79000d8721534d34b5d4917df4308cf647f0e3ab6f63aaa2ee0ee5eea
+Section: Utilities
+Description: Process Viewer for iOS GUI (64-bit)
+Author: Domo
+Name: CocoaTop
+
